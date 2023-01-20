@@ -1,2 +1,3 @@
-# PROJETO-ORIGEM-BRASILEIRA-APRIMORADO
-Visando aumentar os meus conhecimentos, decidir melhorar o projeto fazendo a responsividade de todas as páginas.
+### :tropical_drink: Restaurante Origem Brasileira
+- :dart:Projeto realizado em grupo, fiquei responsável pela página "Cardápio" e pela responsividade.
+- :pencil: Foi utilizado Html e css.
